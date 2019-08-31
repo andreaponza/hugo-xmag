@@ -173,3 +173,9 @@ tr:nth-child(even) { background: #eee }
   width: 50%;
   margin-left: 0;
 }
+
+/*Override Title*/
+.text {
+    font-family: 'Playfair Display', serif;
+    font-size: 30pt;
+}
